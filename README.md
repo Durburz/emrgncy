@@ -1,6 +1,14 @@
 # emrgncy
+
+## about
 a macro pad and desktop control panel
 ![Front view](/pictures/IMG_20210130_150432_1_1.jpg)
+
+Due to the permanent working from home situation I needed to switch my peripherals way more often between my work notebook and my personal computer. This resulted in having ugly HDMI- and USB-switches residing on my desk. Additionally I had to move my computer to a location where I had to stand up to start or reset my computer. That's the reason why I wanted to build a control panel with some additional macro keys and volume controls.
+
+Fun fact: after I ordered the illuminated buttons I discovered the same ones in the Mandalorians Razor Crest.
+![Front view](/pictures/razor_crest.png)
+
 
 ## [TODO] bill of materials
 Part | Amount | Name | Link
