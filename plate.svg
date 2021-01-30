@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="156mm"
+   height="92mm"
+   viewBox="0 0 156 92"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="controlpanel_cut.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1405916"
+     inkscape:cx="220.51045"
+     inkscape:cy="222.41935"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-205)">
+    <path
+       id="rect217"
+       style="fill:#333333;stroke-width:0.429914"
+       d="M 0 0 L 0 347.7168 L 589.60547 347.7168 L 589.60547 0 L 0 0 z M 21.722656 13.228516 A 6.6141716 6.6141716 0 0 1 21.732422 13.228516 A 6.6141716 6.6141716 0 0 1 28.345703 19.841797 A 6.6141716 6.6141716 0 0 1 21.732422 26.457031 A 6.6141716 6.6141716 0 0 1 15.117188 19.841797 A 6.6141716 6.6141716 0 0 1 21.722656 13.228516 z M 567.86523 13.228516 A 6.6141723 6.6141723 0 0 1 567.87305 13.228516 A 6.6141723 6.6141723 0 0 1 574.48828 19.841797 A 6.6141723 6.6141723 0 0 1 567.87305 26.457031 A 6.6141723 6.6141723 0 0 1 561.25977 19.841797 A 6.6141723 6.6141723 0 0 1 567.86523 13.228516 z M 244.12109 92.851562 A 3.7795276 3.7795276 0 0 1 244.17188 92.851562 A 3.7795276 3.7795276 0 0 1 247.95117 96.630859 A 3.7795276 3.7795276 0 0 1 244.17188 100.41016 A 3.7795276 3.7795276 0 0 1 240.39258 96.630859 A 3.7795276 3.7795276 0 0 1 244.12109 92.851562 z M 40.841797 94.742188 L 93.755859 94.742188 L 93.755859 147.65625 L 40.841797 147.65625 L 40.841797 94.742188 z M 112.8418 94.742188 L 165.75586 94.742188 L 165.75586 147.65625 L 112.8418 147.65625 L 112.8418 94.742188 z M 388.26562 103.08398 A 30.23622 30.23622 0 0 1 418.50195 133.32031 A 30.23622 30.23622 0 0 1 388.26562 163.55664 A 30.23622 30.23622 0 0 1 358.0293 133.32031 A 30.23622 30.23622 0 0 1 388.26562 103.08398 z M 486.63867 103.08398 A 30.23622 30.23622 0 0 1 516.87305 133.32031 A 30.23622 30.23622 0 0 1 486.63867 163.55664 A 30.23622 30.23622 0 0 1 456.40234 133.32031 A 30.23622 30.23622 0 0 1 486.63867 103.08398 z M 244.17188 107.9707 A 13.228346 13.228346 0 0 1 257.40039 121.19922 A 13.228346 13.228346 0 0 1 244.17188 134.42773 A 13.228346 13.228346 0 0 1 230.94336 121.19922 A 13.228346 13.228346 0 0 1 244.17188 107.9707 z M 40.841797 166.74219 L 93.755859 166.74219 L 93.755859 219.65625 L 40.841797 219.65625 L 40.841797 166.74219 z M 112.8418 166.74219 L 165.75586 166.74219 L 165.75586 219.65625 L 112.8418 219.65625 L 112.8418 166.74219 z M 40.841797 238.74219 L 93.755859 238.74219 L 93.755859 291.65625 L 40.841797 291.65625 L 40.841797 238.74219 z M 112.8418 238.74219 L 165.75586 238.74219 L 165.75586 291.65625 L 112.8418 291.65625 L 112.8418 238.74219 z M 374.99609 238.74219 L 427.9082 238.74219 L 427.9082 291.65625 L 374.99609 291.65625 L 374.99609 238.74219 z M 446.99609 238.74219 L 499.9082 238.74219 L 499.9082 291.65625 L 446.99609 291.65625 L 446.99609 238.74219 z M 217.71484 240.2793 L 270.62891 240.2793 L 270.62891 293.19336 L 217.71484 293.19336 L 217.71484 240.2793 z M 21.722656 321.25977 A 6.6141726 6.6141726 0 0 1 21.732422 321.25977 A 6.6141726 6.6141726 0 0 1 28.345703 327.87305 A 6.6141726 6.6141726 0 0 1 21.732422 334.48828 A 6.6141726 6.6141726 0 0 1 15.117188 327.87305 A 6.6141726 6.6141726 0 0 1 21.722656 321.25977 z M 567.86523 321.25977 A 6.6141722 6.6141722 0 0 1 567.87305 321.25977 A 6.6141722 6.6141722 0 0 1 574.48828 327.87305 A 6.6141722 6.6141722 0 0 1 567.87305 334.48828 A 6.6141722 6.6141722 0 0 1 561.25977 327.87305 A 6.6141722 6.6141722 0 0 1 567.86523 321.25977 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,205)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6244"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,205)"><flowRegion
+         id="flowRegion6246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';fill:#ffffff"><rect
+           id="rect6248"
+           width="274.01675"
+           height="43.396317"
+           x="282.69601"
+           y="-191.6377"
+           style="fill:#ffffff;-inkscape-font-specification:'URW Gothic';font-family:'URW Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara6250">Powersdfgsdfsdfsdfsdf</flowPara></flowRoot>
+  </g>
+</svg>
